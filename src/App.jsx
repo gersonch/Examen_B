@@ -153,7 +153,7 @@ function UserList() {
               ))}
             </div>
           ) : (
-            <p className="text-center">Cargando...</p>
+            <p className="text-center">No hay usuarios</p>
           )}
         </div>
       </div>
