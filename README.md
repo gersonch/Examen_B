@@ -38,7 +38,7 @@ Esta es una aplicación web desarrollada con React y Vite, que utiliza Supabase 
 1. Clonar el repositorio
 
 ```bash
-git clone [URL_DEL_REPOSITORIO]
+git clone https://github.com/gersonch/Examen_B
 ```
 
 2. Instalar dependencias
